@@ -29,7 +29,7 @@ Esse projeto foi desenvolvidos com as seguintes tecnologias
 
 
 ## :woman_technologist: O Desenvolvedor 
-<img src="https://avatars.githubusercontent.com/u/54042048?s=96&v=4" width="100px;" alt="foto do desenvolvedor/>
+<img src="https://avatars.githubusercontent.com/u/54042048?s=96&v=4" width="100px" alt="foto do desenvolvedor/>
 </br>  
 
 Contato:
