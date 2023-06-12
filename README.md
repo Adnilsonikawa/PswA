@@ -23,9 +23,9 @@ Esse projeto foi desenvolvidos com as seguintes tecnologias
 
 
 ## 🏷️ Layout
-Você pode visualizar o loyout do projeto através 
-[desse link] (https://www.figma.com/file/aE3ZjOTUyI7zJJvocfLpHN/PSW---O-RETORNO?type=design&node-id=0-1&t=jxUKdgk6ugGmQiM6-0).
-É necessário ter uma conta no [Figma](https://www.figma.com)
+ Você pode visualizar o loyout do projeto através 
+ [desse link](https://www.figma.com/file/aE3ZjOTUyI7zJJvocfLpHN/PSW---O-RETORNO?type=design&node-id=0-1&t=jxUKdgk6ugGmQiM6-0).
+ É necessário ter uma conta no [Figma](https://www.figma.com)
 
 
 ## :woman_technologist: O Desenvolvedor 
