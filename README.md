@@ -12,14 +12,14 @@ Esse projeto foi desenvolvido durante a PyStack Week - o retorno.
 ## 🛠️ tecnologias
 Esse projeto foi desenvolvidos com as seguintes tecnologias
 
--Python 
--Django
--SQlite3
--HTML
--CSS
--JavaScropt
--Chart.js
--Bootsrap
+- Python 
+- Django
+- SQlite3
+- HTML
+- CSS
+- JavaScropt
+- Chart.js
+- Bootsrap
 
 
 ## 🏷️ Layout
@@ -29,8 +29,7 @@ Esse projeto foi desenvolvidos com as seguintes tecnologias
 
 
 ## :woman_technologist: O Desenvolvedor 
-<img src="https://avatars.githubusercontent.com/u/54042048?s=96&v=4" width="100px" alt="foto do desenvolvedor/>
-</br>  
 
+Adnilson ikawa da silva
 Contato:
 adeikawa@hotmail.com
